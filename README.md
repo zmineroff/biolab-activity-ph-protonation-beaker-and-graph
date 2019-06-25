@@ -2,10 +2,10 @@
 
 This project is a template for activities in the Biolab suite.
 
-![Travis (.org)](https://flat.badgen.net/travis/CMUEberlyCenter/biolab-template)
-![Coveralls github](https://flat.badgen.net/coveralls/c/github/CMUEberlyCenter/biolab-template)
-![Code Climate maintainability](https://flat.badgen.net/codeclimate/maintainability/CMUEberlyCenter/biolab-template)
-![Code Climate technical debt](https://flat.badgen.net/codeclimate/tech-debt/CMUEberlyCenter/biolab-template)
+![Travis (.org)](https://flat.badgen.net/travis/zmineroff/biolab-activity-ph-protonation-beaker-and-graph)
+![Coveralls github](https://flat.badgen.net/coveralls/c/github/zmineroff/biolab-activity-ph-protonation-beaker-and-graph)
+![Code Climate maintainability](https://flat.badgen.net/codeclimate/maintainability/zmineroff/biolab-activity-ph-protonation-beaker-and-graph)
+![Code Climate technical debt](https://flat.badgen.net/codeclimate/tech-debt/zmineroff/biolab-activity-ph-protonation-beaker-and-graph)
 
 ## Getting Started
 
